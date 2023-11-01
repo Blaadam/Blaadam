@@ -8,4 +8,4 @@ I hope to talk to you soon!
 
 ![Blaadam's GitHub stats](https://github-readme-stats-gray-eight-32.vercel.app/api?username=Blaadam&count_private=true&show_icons=true)
 
-![My Top Languages](https://github-readme-stats-gray-eight-32.vercel.app/api/top-langs/?username=Blaadam&layout=compact,github-readme-stats&hide=css,javascript)
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Blaadam&layout=compact)
