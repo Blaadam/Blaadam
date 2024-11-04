@@ -1,8 +1,8 @@
 ### Hi!
 
-I am Blaadam, a proficient Software Engineer with a strong foundation in Lua, JavaScript and C#. My focus is not only on enhancing my expertise in these areas but also on broadening my technical know-how to solve complex challenges efficiently.
+I am Blaadam, a proficient Software Engineer with a strong foundation in Lua, JavaScript and C#. My focus is on enhancing my expertise in these areas and broadening my technical know-how to solve complex challenges efficiently.
 
-As an aspiring Software Engineer, I'm currently delving into A-Levels in Computer Science, Mathematics, and Cambridge Technical Level 3 Information Technology. This rigorous academic endeavor is powering my desire to understand complex computational principles and fueling my commitment towards becoming a proficient problem solver in the tech industry.
+As an aspiring Software Engineer, I'm currently delving into A-Levels in Computer Science, and Cambridge Technical Level 3 Information Technology. This rigorous academic endeavour is powering my desire to understand complex computational principles and fueling my commitment towards becoming a proficient problem solver in the tech industry.
 
 I hope to talk to you soon!
 
@@ -20,3 +20,16 @@ I hope to talk to you soon!
 | Github       | [Blaadam](https://github.com/Blaadam)           |
 | Code:Stats   | [blaadam](https://codestats.net/users/blaadam)  |
 | Roblox       | [HardwareSecurity](https://www.roblox.com/users/5557366/profile) |
+
+### Notable Contributions
+| Experience | # of Visits |
+|--------------|-------------------------------------------------|
+| [Stapleton County Firestone (v2)](https://www.roblox.com/games/579211007/Stapleton-County-Firestone)       | 9.4m+ Visits         |
+| [FIRESTORM](https://www.roblox.com/games/10631992122/FIRESTORM)   | 4m+ Visits  |
+| [Stapleton County, Firestone (v3)](https://www.roblox.com/games/3290173920/Stapleton-County-Firestone-BETA) | 100k+ Visits |
+| [Kings County, Marigold](https://www.roblox.com/games/5234786568/Kings-County-State-of-Marigold-V2) | 15k+ Visits |
+| [Firetops](https://www.roblox.com/games/10378372937/Firetops) | 12k+ Visits |
+| [Victoria, British Columbia](https://www.roblox.com/games/18743397077/Victoria-British-Columbia-Alpha) | 2k+ Visits |
+| Total | 13.5m+ Visits |
+
+
