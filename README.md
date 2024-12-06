@@ -27,9 +27,6 @@ I hope to talk to you soon!
 | [Stapleton County Firestone (v2)](https://www.roblox.com/games/579211007/Stapleton-County-Firestone)       | 9.4m+ Visits         |
 | [FIRESTORM](https://www.roblox.com/games/10631992122/FIRESTORM)   | 4m+ Visits  |
 | [Stapleton County, Firestone (v3)](https://www.roblox.com/games/3290173920/Stapleton-County-Firestone-BETA) | 100k+ Visits |
-| [Kings County, Marigold](https://www.roblox.com/games/5234786568/Kings-County-State-of-Marigold-V2) | 15k+ Visits |
-| [Firetops](https://www.roblox.com/games/10378372937/Firetops) | 12k+ Visits |
-| [Victoria, British Columbia](https://www.roblox.com/games/18743397077/Victoria-British-Columbia-Alpha) | 2k+ Visits |
 | Total | 13.5m+ Visits |
 
 
