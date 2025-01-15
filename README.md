@@ -6,9 +6,10 @@ As an aspiring Software Engineer, I'm currently delving into A-Levels in Compute
 
 I hope to talk to you soon!
 
-![Blaadam's GitHub stats](https://github-readme-stats-gray-eight-32.vercel.app/api?username=Blaadam&count_private=true&show_icons=true)
-
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Blaadam&layout=compact)
+<p align="middle">
+  <img src="https://github-readme-stats-gray-eight-32.vercel.app/api?username=Blaadam&count_private=true&show_icons=true" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blaadam&layout=normal" height="200" /> 
+</p>
 
 ---
 
