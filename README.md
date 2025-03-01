@@ -2,7 +2,7 @@
 
 I am Blaadam, a proficient Software Engineer with a strong foundation in Lua, JavaScript and C#. My focus is on enhancing my expertise in these areas and broadening my technical know-how to solve complex challenges efficiently.
 
-As an aspiring Software Engineer, I'm currently delving into A-Levels in Computer Science, and Cambridge Technical Level 3 Information Technology. This rigorous academic endeavour is powering my desire to understand complex computational principles and fueling my commitment towards becoming a proficient problem solver in the tech industry.
+As an aspiring Software Engineer, I'm currently pursuing A-Levels in Computer Science and Information Technology. This rigorous academic endeavour is fueling my desire to understand complex computational principles and my commitment to becoming a proficient problem solver in the tech industry.
 
 I hope to talk to you soon!
 
