@@ -23,10 +23,10 @@ I hope to talk to you soon!
 ### Notable Contributions
 | Experience | # of Visits |
 |--------------|-------------------------------------------------|
-| [Musical Chairs](https://www.roblox.com/games/113323927469374/Musical-Chairs) | 69.1m+ Visits |
-| [Stapleton County Firestone (v2)](https://www.roblox.com/games/579211007/Stapleton-County-Firestone)       | 9.4m+ Visits         |
-| [FIRESTORM](https://www.roblox.com/games/10631992122/FIRESTORM)   | 4m+ Visits  |
+| [Musical Chairs](https://www.roblox.com/games/113323927469374/Musical-Chairs) | 99m+ Visits |
+| [Stapleton County Firestone (v2)](https://www.roblox.com/games/579211007/Stapleton-County-Firestone)       | 9.5m+ Visits         |
+| [FIRESTORM](https://www.roblox.com/games/10631992122/FIRESTORM)   | 5.1m+ Visits  |
 | [Stapleton County, Firestone (v3)](https://www.roblox.com/games/3290173920/Stapleton-County-Firestone-BETA) | 100k+ Visits |
-| Total | 82.6m+ Visits |
+| Total | 113.7m+ Visits |
 
 
