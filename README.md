@@ -1,12 +1,12 @@
 ### Hello! 👋
 
-I'm Adam, and I'm currently an IT Consultant working with technology partners through cloud, AI and security.
+I'm Adam, and I'm an IT Consultant working with technology partners across cloud, AI, and security.
 
-I've spent the last 10 years developing experiences on Roblox, and I still have a couple of projects moving along on the side. Lately, I've been focusing on Cloudflare-native stacks, using TypeScript and Astro - though I have been experimenting with Terraform and other providers like AWS.
+I've spent the last 10 years developing experiences on Roblox, and I still have a couple of side projects moving along. Lately, I've been focusing on Cloudflare-native stacks, using TypeScript and Astro - though I have been experimenting with Terraform and other providers like AWS.
 
 Something that I care about a lot are clean and functional systems that maintain performance. It's my personal pet peeve to ship something buggy and not refined.
 
-I'm currently working on **Super Sports!** which is a multiplayer sports hub on Roblox.
+I'm currently working on **Super Sports!** which is a multiplayer sports hub on Roblox. I built Jafa to make development more fluid and cohesive.
 
 ### Featured projects
 | Project | What it does |
