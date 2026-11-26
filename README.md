@@ -1,32 +1,39 @@
-### Hi!
+### Hello! 👋
 
-I am Blaadam, a proficient Software Engineer with a strong foundation in Lua, JavaScript and C#. My focus is on enhancing my expertise in these areas and broadening my technical know-how to solve complex challenges efficiently.
+I'm Adam, and I'm currently an IT Consultant working with technology partners through cloud, AI and security.
 
-As an aspiring Software Engineer, I'm currently pursuing A-Levels in Computer Science and Information Technology. This rigorous academic endeavour is fueling my desire to understand complex computational principles and my commitment to becoming a proficient problem solver in the tech industry.
+I've spent the last 10 years developing experiences on Roblox, and I still have a couple of projects moving along on the side. Lately, I've been focusing on Cloudflare-native stacks, using TypeScript and Astro - though I have been experimenting with Terraform and other providers like AWS.
 
-I hope to talk to you soon!
+Something that I care about a lot are clean and functional systems that maintain performance. It's my personal pet peeve to ship something buggy and not refined.
 
-<p align="middle">
-  <img src="https://github-readme-stats-gray-eight-32.vercel.app/api?username=Blaadam&count_private=true&show_icons=true" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blaadam&layout=normal" height="200" /> 
+I'm currently working on **Super Sports!** which is a multiplayer sports hub on Roblox.
+
+### Featured projects
+| Project | What it does |
+|---|---|
+| [Jafa](https://github.com/blaadam/jafa) | CLI that scaffolds and manages multi-place Roblox monorepos, covering build, Studio sync and deploys |
+| [aws-mc](https://github.com/Blaadam/aws-mc) | Terraform setup for on-demand Minecraft servers on AWS, built to cut idle costs |
+| [WristShutter](https://github.com/Blaadam/WristShutter) | Garmin Forerunner 55 app and Android service that turns the watch into a remote shutter for Samsung Camera |
+| [Learn Cloud](https://learn.adamworden.uk/) | Practice questions for AWS and GCP certification exams, designed to teach instead of test |
+
+### Top Certifications
+
+<p>
+  <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="72" alt="AWS Solutions Architect Associate" />
+  <img src="https://images.credly.com/images/36229e4d-e731-416b-88a9-54782d9f11e8/blob" height="72" alt="Cloudflare One Advanced (for Partners)" />
+  <img src="https://images.credly.com/images/ec2cfe81-603f-4f68-a254-564e43847fda/blob" height="72" alt="Cloudflare Application Security Essentials (for Partners)" />
 </p>
 
----
+### Roblox
+I've contributed to 588 million visits on the Roblox platform. Some of my notable contributions include:
+- [Musical Chairs](https://www.roblox.com/games/113323927469374)
+- [State of Firestone](https://www.roblox.com/communities/2803360)
+- [FireX](https://www.roblox.com/communities/7132841)
 
-### Social Links
-|              |                                                 |
-|--------------|-------------------------------------------------|
-| Github       | [Blaadam](https://github.com/Blaadam)           |
-| Code:Stats   | [blaadam](https://codestats.net/users/blaadam)  |
-| Roblox       | [HardwareSecurity](https://www.roblox.com/users/5557366/profile) |
-
-### Notable Contributions
-| Experience | # of Visits |
-|--------------|-------------------------------------------------|
-| [Musical Chairs](https://www.roblox.com/games/113323927469374/Musical-Chairs) | 160m+ Visits |
-| [Stapleton County Firestone (v2)](https://www.roblox.com/games/579211007/Stapleton-County-Firestone)       | 9.5m+ Visits         |
-| [FIRESTORM](https://www.roblox.com/games/10631992122/FIRESTORM)   | 5.1m+ Visits  |
-| [Stapleton County, Firestone (v3)](https://www.roblox.com/games/3290173920/Stapleton-County-Firestone-BETA) | 100k+ Visits |
-| Total | 174.7m+ Visits |
-
-
+### Links
+| | |
+|---|---|
+| Website | [adamworden.uk](https://adamworden.uk) |
+| Digital Portfolio | [adwo.dev](https://adwo.dev) |
+| GitHub | [Blaadam](https://github.com/Blaadam) |
+| Roblox | [blaadam](https://www.roblox.com/users/5557366) |
